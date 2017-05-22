@@ -1,0 +1,10 @@
+@mixin lineMore($line:2) {
+  height: 25px*$line;
+  line-height: 25px;
+  overflow: hidden;
+
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: $line;
+  -webkit-box-orient: vertical;
+}

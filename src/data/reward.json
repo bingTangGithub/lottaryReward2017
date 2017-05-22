@@ -1,0 +1,15 @@
+
+{
+    "0": {
+        "name": "砸鸡蛋",
+        "number": "18",
+        "step": "6",
+        "bg": "src/images/zajindan.png"
+    },
+    "1": {
+        "name": "特等奖",
+        "number": "1",
+        "step": "1",
+        "bg": "src/images/tedengjiang.png"
+    }
+}
